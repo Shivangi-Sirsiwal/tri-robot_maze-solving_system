@@ -8,3 +8,6 @@ See the system in the demo video below:
 
 https://github.com/Shivangi-Sirsiwal/tri-robot_maze-solving_system/assets/152037538/4449ab9a-d629-4a69-9218-d85e56ac5b8f
 
+## *Further Notes*
+
+*This project was created for the Final Project in the WPI course RBE2002 Unified Robotics II as taught by Professor Greg Lewin in D Term of the 2022 school year. This code was created by Shivangi Sirsiwal, : Filippo Marcantoni, and Carlos Jones as a part of project group 5.*
